@@ -17,6 +17,8 @@ Here's a brief overview of the projects included in this repository:
 -   Login System 🔐: A simple login system demonstrating user authentication and basic security concepts, allowing users to access protected resources after successful validation.
 
 -   Student Management System 🎓: A system for managing student data, including adding, updating, and retrieving student information, showcasing basic data management techniques.
+ Technologies Used
+- Java
 
 ## Author
 
